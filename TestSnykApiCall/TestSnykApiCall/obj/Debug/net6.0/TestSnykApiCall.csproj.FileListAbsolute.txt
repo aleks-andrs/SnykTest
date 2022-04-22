@@ -1,0 +1,15 @@
+C:\dev\testSnykApiCall\TestSnykApiCall\TestSnykApiCall\obj\Debug\net6.0\TestSnykApiCall.csproj.AssemblyReference.cache
+C:\dev\testSnykApiCall\TestSnykApiCall\TestSnykApiCall\obj\Debug\net6.0\TestSnykApiCall.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\testSnykApiCall\TestSnykApiCall\TestSnykApiCall\obj\Debug\net6.0\TestSnykApiCall.AssemblyInfoInputs.cache
+C:\dev\testSnykApiCall\TestSnykApiCall\TestSnykApiCall\obj\Debug\net6.0\TestSnykApiCall.AssemblyInfo.cs
+C:\dev\testSnykApiCall\TestSnykApiCall\TestSnykApiCall\obj\Debug\net6.0\TestSnykApiCall.csproj.CoreCompileInputs.cache
+C:\dev\testSnykApiCall\TestSnykApiCall\TestSnykApiCall\bin\Debug\net6.0\TestSnykApiCall.exe
+C:\dev\testSnykApiCall\TestSnykApiCall\TestSnykApiCall\bin\Debug\net6.0\TestSnykApiCall.deps.json
+C:\dev\testSnykApiCall\TestSnykApiCall\TestSnykApiCall\bin\Debug\net6.0\TestSnykApiCall.runtimeconfig.json
+C:\dev\testSnykApiCall\TestSnykApiCall\TestSnykApiCall\bin\Debug\net6.0\TestSnykApiCall.dll
+C:\dev\testSnykApiCall\TestSnykApiCall\TestSnykApiCall\bin\Debug\net6.0\TestSnykApiCall.pdb
+C:\dev\testSnykApiCall\TestSnykApiCall\TestSnykApiCall\obj\Debug\net6.0\TestSnykApiCall.dll
+C:\dev\testSnykApiCall\TestSnykApiCall\TestSnykApiCall\obj\Debug\net6.0\refint\TestSnykApiCall.dll
+C:\dev\testSnykApiCall\TestSnykApiCall\TestSnykApiCall\obj\Debug\net6.0\TestSnykApiCall.pdb
+C:\dev\testSnykApiCall\TestSnykApiCall\TestSnykApiCall\obj\Debug\net6.0\TestSnykApiCall.genruntimeconfig.cache
+C:\dev\testSnykApiCall\TestSnykApiCall\TestSnykApiCall\obj\Debug\net6.0\ref\TestSnykApiCall.dll
